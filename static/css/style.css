@@ -196,3 +196,9 @@ only screen and (                min-resolution: 2dppx) {
         background-size: 200px 200px;
     }
 }
+
+#foot .fa{
+    color: #E90606;
+    margin: 0 3px;
+    font-size: 14px;
+}
